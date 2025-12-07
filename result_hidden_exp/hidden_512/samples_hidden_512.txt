@@ -1,0 +1,29 @@
+[train #0]
+URL : http://farm6.staticflickr.com/5503/9441102953_8c1fc13c89_z.jpg
+PRED: a small white airplane sitting on top of a forest <END>
+GT  : <START> a small white boat with a man laying next to his dog <END>
+
+[train #1]
+URL : http://farm4.staticflickr.com/3079/2598049662_05db885498_z.jpg
+PRED: a man looks on a table with a small <UNK> <END>
+GT  : <START> a man and a woman are both standing in a doorway together <END>
+
+[train #2]
+URL : http://farm4.staticflickr.com/3513/3862500489_6fd195d183_z.jpg
+PRED: a young boy playing tennis racquet on a tennis court <END>
+GT  : <START> a young girl is on the tennis court with her racket <END>
+
+[val #0]
+URL : http://farm4.staticflickr.com/3399/3593995678_4ddc8d6866_z.jpg
+PRED: a <UNK> bus sitting on a motorcycle near a street <END>
+GT  : <START> a man stands in front of <UNK> of vegetables at a market <END>
+
+[val #1]
+URL : http://farm9.staticflickr.com/8095/8567187067_ca0b45d9af_z.jpg
+PRED: a man sitting on a table with a <UNK> <END>
+GT  : <START> a group of people eat a meal at an outdoor event <END>
+
+[val #2]
+URL : http://farm6.staticflickr.com/5095/5463426118_c430f31e29_z.jpg
+PRED: a person <UNK> into a <UNK> <UNK> <END>
+GT  : <START> a woman is seen through the tennis court fence <END>

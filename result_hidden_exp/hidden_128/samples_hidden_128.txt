@@ -1,0 +1,29 @@
+[train #0]
+URL : http://farm8.staticflickr.com/7107/7875161078_5603a0a0c8_z.jpg
+PRED: a group of people standing next to each other <END>
+GT  : <START> an old tower is at home among <UNK> buildings and <UNK> <END>
+
+[train #1]
+URL : http://farm5.staticflickr.com/4057/4288914307_8ee2c5169d_z.jpg
+PRED: two giraffes standing in the grass field <END>
+GT  : <START> three giraffes are <UNK> on a wooded plain <END>
+
+[train #2]
+URL : http://farm1.staticflickr.com/133/402467312_38458ac191_z.jpg
+PRED: a man <UNK> a <UNK> <UNK> in a <UNK> <END>
+GT  : <START> a reflection of a person standing in a mirror <END>
+
+[val #0]
+URL : http://farm4.staticflickr.com/3166/2469650000_b38b77eba9_z.jpg
+PRED: a man is sitting on a bench in the <UNK> <END>
+GT  : <START> a man pointing in the <UNK> <UNK> of the one way sign above him <END>
+
+[val #1]
+URL : http://farm4.staticflickr.com/3348/3333755023_1a0381e95f_z.jpg
+PRED: a <UNK> of <UNK> <UNK> on a <UNK> <END>
+GT  : <START> a close up of a <UNK> street sign <END>
+
+[val #2]
+URL : http://farm5.staticflickr.com/4103/5023852887_3d5d183572_z.jpg
+PRED: a man holding a tennis racquet on a tennis court <END>
+GT  : <START> a man is looking at his small dog <END>

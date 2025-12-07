@@ -64,11 +64,16 @@ def image_from_url(url):
     """
     try:
         f = urllib.request.urlopen(url)
-        _, fname = tempfile.mkstemp()
+        image_data = f.read()
+        fname = tempfile.mktemp()
         with open(fname, 'wb') as ff:
-            ff.write(f.read())
+            ff.write(image_data)
         img = imread(fname)
-        os.remove(fname)
+        try:
+            os.remove(fname)
+        except PermissionError:
+            # windows에서 가끔 파일이 아직 잡혀 있을 수 있음 -> 무시
+            pass
         return img
     except urllib.error.URLError as e:
         print('URL Error: ', e.reason, url)

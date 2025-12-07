@@ -1,0 +1,29 @@
+[train #0]
+URL : http://farm8.staticflickr.com/7029/6844216529_befb539919_z.jpg
+PRED: a <UNK> <UNK> of a <UNK> <UNK> <UNK> <END>
+GT  : <START> a pizza sitting on paper with a <UNK> knife <END>
+
+[train #1]
+URL : http://farm5.staticflickr.com/4054/4686494927_3cf952de1d_z.jpg
+PRED: a man holding a baseball bat in a <UNK> <END>
+GT  : <START> a <UNK> plays a game on the wii with her family <END>
+
+[train #2]
+URL : http://farm1.staticflickr.com/28/101701957_462339b003_z.jpg
+PRED: a man skiing down a snowy hill <END>
+GT  : <START> a woman is using a snowboard on a ski slope <END>
+
+[val #0]
+URL : http://farm2.staticflickr.com/1369/1133774803_703c03478c_z.jpg
+PRED: a <UNK> of <UNK> <UNK> <UNK> on the beach <END>
+GT  : <START> a <UNK> of <UNK> kites are looking down on a <UNK> kite <END>
+
+[val #1]
+URL : http://farm9.staticflickr.com/8533/8693930270_f942dca647_z.jpg
+PRED: a laptop and a <UNK> on a city street <END>
+GT  : <START> a bus next to a rest stop area <UNK> a clock on the roof <END>
+
+[val #2]
+URL : http://farm2.staticflickr.com/1422/1373201926_fdafe4bb5d_z.jpg
+PRED: a bathroom sink with <UNK> <UNK> <UNK> <END>
+GT  : <START> a room with a large white bed and a flat screen tv <END>

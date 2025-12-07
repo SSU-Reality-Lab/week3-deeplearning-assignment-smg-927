@@ -1,0 +1,29 @@
+[train #0]
+URL : http://farm1.staticflickr.com/55/133563717_ee1e6d4f1b_z.jpg
+PRED: a <UNK> of <UNK> <UNK> <UNK> on a table <END>
+GT  : <START> a brown teddy bear sitting next to a yellow chair <END>
+
+[train #1]
+URL : http://farm8.staticflickr.com/7315/9876925923_b99ab17bdf_z.jpg
+PRED: a woman <UNK> a <UNK> on a tennis court <END>
+GT  : <START> a woman riding on the back of a brown horse <END>
+
+[train #2]
+URL : http://farm4.staticflickr.com/3191/3062697181_1985275ba6_z.jpg
+PRED: a <UNK> <UNK> is <UNK> a <UNK> <UNK> on a <UNK> <END>
+GT  : <START> there are many boats that can be seen in the water <END>
+
+[val #0]
+URL : http://farm1.staticflickr.com/181/437013680_0d193f4a99_z.jpg
+PRED: a man is <UNK> a <UNK> on a tennis court <END>
+GT  : <START> there are pedestrians walking on the road in the city <END>
+
+[val #1]
+URL : http://farm5.staticflickr.com/4045/4464789987_58a3a14584_z.jpg
+PRED: a man is <UNK> a <UNK> on a tennis court <END>
+GT  : <START> a group of people standing at a table with bottles of wine <END>
+
+[val #2]
+URL : http://farm2.staticflickr.com/1070/1300336842_4a56197177_z.jpg
+PRED: a <UNK> <UNK> with a <UNK> <UNK> and <UNK> <END>
+GT  : <START> a toilet with a <UNK> on top of it <END>

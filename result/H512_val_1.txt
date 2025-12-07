@@ -1,0 +1,6 @@
+=== Hidden Size Captioning Experiment ===
+Split          : val
+Hidden Size    : 512
+
+GT Caption     : <START> a boy standing in the street holding a baseball bat <END>
+Sample Caption : the kitchen the <UNK> of a a of a the <UNK> out on the ocean <END>
