@@ -1,0 +1,6 @@
+=== Hidden Size Captioning Experiment ===
+Split          : val
+Hidden Size    : 512
+
+GT Caption     : <START> brown and black dog looking at a person holding a frisbee <END>
+Sample Caption : guy cement in front <UNK> while a <END>

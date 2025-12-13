@@ -1,0 +1,6 @@
+=== Hidden Size Captioning Experiment ===
+Split          : val
+Hidden Size    : 512
+
+GT Caption     : <START> black and white photo of a scooter carrying <UNK> bikes <END>
+Sample Caption : to on the <UNK> a in <UNK> with <UNK> <END>

@@ -1,0 +1,6 @@
+=== Hidden Size Captioning Experiment ===
+Split          : train
+Hidden Size    : 512
+
+GT Caption     : <START> a double decker bus that is driving in a street <END>
+Sample Caption : a large truck is the <UNK> cement a front of a <UNK> <END>

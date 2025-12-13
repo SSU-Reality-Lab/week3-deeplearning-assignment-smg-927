@@ -1,0 +1,18 @@
+data/
+cs231n/
+
+# Ignore downloaded datasets
+utils/datasets/*
+!utils/datasets/.gitkeep
+
+# 또는 dataset 폴더가 다른 위치에 있다면
+dataset/*
+!dataset/.gitkeep
+
+# 무거운 COCO / ImageNet / pretrained 모델들 무시
+*.zip
+*.npz
+coco_captioning/
+squeezenet_tf/
+imagenet_val*/
+

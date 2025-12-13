@@ -1,0 +1,6 @@
+=== Hidden Size Captioning Experiment ===
+Split          : train
+Hidden Size    : 512
+
+GT Caption     : <START> a man in a green shirt skateboarding on a street <END>
+Sample Caption : a man is on <UNK> <END>

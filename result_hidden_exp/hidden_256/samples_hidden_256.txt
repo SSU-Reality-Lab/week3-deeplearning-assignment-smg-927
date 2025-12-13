@@ -1,0 +1,29 @@
+[train #0] (try 1)
+URL : http://farm1.staticflickr.com/82/253842196_814e5b01f8_z.jpg
+PRED: it <UNK> <UNK> sitting on the runway in front of a house <END>
+GT  : <START> three skate <UNK> are preparing to ride in a skate board bowl <END>
+
+[train #1] (try 2)
+URL : http://farm3.staticflickr.com/2689/4390534989_918160b916_z.jpg
+PRED: a view of a <UNK> <UNK> a wooden table with <UNK> <UNK> <END>
+GT  : <START> a large glass bowl filled with dirt and plants <END>
+
+[train #2] (try 3)
+URL : http://farm9.staticflickr.com/8056/8096962481_a14031cbe9_z.jpg
+PRED: a young girl and a woman are smiling <END>
+GT  : <START> a young girl and a woman are smiling <END>
+
+[val #0] (try 1)
+URL : http://farm2.staticflickr.com/1070/1087946215_5e48d1bda1_z.jpg
+PRED: a bed with a metal rug and black <UNK> <END>
+GT  : <START> a cat is sitting on top of a monitor and a persons foot <END>
+
+[val #1] (try 2)
+URL : http://farm8.staticflickr.com/7057/6820649552_ae258b2112_z.jpg
+PRED: a large elephant and a <UNK> <UNK> <UNK> through a grassy area <END>
+GT  : <START> a large elephants walks along toward the camera <END>
+
+[val #2] (try 3)
+URL : http://farm3.staticflickr.com/2765/4371102075_6eea4c2e31_z.jpg
+PRED: a man is in a snow with snow skis <END>
+GT  : <START> a woman cross country skiing on a sunny day <END>

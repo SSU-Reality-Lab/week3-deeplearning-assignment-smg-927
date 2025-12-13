@@ -1,0 +1,6 @@
+=== Hidden Size Captioning Experiment ===
+Split          : train
+Hidden Size    : 512
+
+GT Caption     : <START> two children standing on the fence of a zoo enclosure <END>
+Sample Caption : coming cat that <UNK> with a game with a man watches <END>
