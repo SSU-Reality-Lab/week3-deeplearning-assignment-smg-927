@@ -1,29 +1,39 @@
-[train #0]
-URL : http://farm6.staticflickr.com/5503/9441102953_8c1fc13c89_z.jpg
-PRED: a small white airplane sitting on top of a forest <END>
-GT  : <START> a small white boat with a man laying next to his dog <END>
+[train #0] (try 1)
+URL : http://farm9.staticflickr.com/8159/7455117666_d57e8a23bc_z.jpg
+PRED: two young boys and others <UNK> a birthday with a cake and other <UNK> <END>
+GT  : <START> two young boys and others <UNK> a birthday with a cake and other <UNK> <END>
 
-[train #1]
-URL : http://farm4.staticflickr.com/3079/2598049662_05db885498_z.jpg
-PRED: a man looks on a table with a small <UNK> <END>
-GT  : <START> a man and a woman are both standing in a doorway together <END>
+[train #0] (try 2)
+URL : http://farm4.staticflickr.com/3758/9464267482_5bea1c43b8_z.jpg
+PRED: an assortment of foods <UNK> of asian <UNK> <END>
+GT  : <START> an assortment of foods <UNK> of asian <UNK> <END>
 
-[train #2]
-URL : http://farm4.staticflickr.com/3513/3862500489_6fd195d183_z.jpg
-PRED: a young boy playing tennis racquet on a tennis court <END>
-GT  : <START> a young girl is on the tennis court with her racket <END>
+[train #1] (try 3)
+URL : http://farm4.staticflickr.com/3388/3559679355_ec38627bae_z.jpg
+PRED: a group of elephants walking in front of a vintage building <END>
+GT  : <START> a group of elephants walking in to a river <END>
 
-[val #0]
-URL : http://farm4.staticflickr.com/3399/3593995678_4ddc8d6866_z.jpg
-PRED: a <UNK> bus sitting on a motorcycle near a street <END>
-GT  : <START> a man stands in front of <UNK> of vegetables at a market <END>
+[train #2] (try 4)
+URL : http://farm5.staticflickr.com/4080/4890564958_de621f1452_z.jpg
+PRED: two large giraffes and a <UNK> giraffe in a grassy area <END>
+GT  : <START> two large giraffes and a <UNK> giraffe near a <UNK> <END>
 
-[val #1]
-URL : http://farm9.staticflickr.com/8095/8567187067_ca0b45d9af_z.jpg
-PRED: a man sitting on a table with a <UNK> <END>
-GT  : <START> a group of people eat a meal at an outdoor event <END>
+[val #0] (try 1)
+URL : http://farm4.staticflickr.com/3526/3249905040_f1668b17da_z.jpg
+PRED: a <UNK> truck <UNK> a <UNK> and <UNK> <END>
+GT  : <START> people behind a gate and some are holding surfboards <END>
 
-[val #2]
-URL : http://farm6.staticflickr.com/5095/5463426118_c430f31e29_z.jpg
-PRED: a person <UNK> into a <UNK> <UNK> <END>
-GT  : <START> a woman is seen through the tennis court fence <END>
+[val #1] (try 2)
+URL : http://farm1.staticflickr.com/49/107049250_c8b24c57c2_z.jpg
+PRED: a living room with furniture and a flat screen tv <END>
+GT  : <START> a kitchen with a <UNK> stove top and wooden cabinets <END>
+
+[val #1] (try 3)
+URL : http://farm1.staticflickr.com/144/317991739_9de85df29b_z.jpg
+PRED: two men in a kitchen with a small <UNK> <END>
+GT  : <START> two young people playing a video game on a small tv <END>
+
+[val #2] (try 4)
+URL : http://farm3.staticflickr.com/2824/10029951533_927253d699_z.jpg
+PRED: a black train traveling down a long <UNK> road <END>
+GT  : <START> very many trains at the <UNK> station to their <UNK> <END>

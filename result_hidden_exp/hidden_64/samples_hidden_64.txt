@@ -1,29 +1,34 @@
-[train #0]
-URL : http://farm1.staticflickr.com/55/133563717_ee1e6d4f1b_z.jpg
-PRED: a <UNK> of <UNK> <UNK> <UNK> on a table <END>
-GT  : <START> a brown teddy bear sitting next to a yellow chair <END>
+[train #0] (try 1)
+URL : http://farm1.staticflickr.com/40/89479389_9b09708688_z.jpg
+PRED: a double decker bus <UNK> to a <UNK> in a room <END>
+GT  : <START> a road sign with <UNK> <UNK> and <UNK> <UNK> <END>
 
-[train #1]
-URL : http://farm8.staticflickr.com/7315/9876925923_b99ab17bdf_z.jpg
-PRED: a woman <UNK> a <UNK> on a tennis court <END>
-GT  : <START> a woman riding on the back of a brown horse <END>
+[train #1] (try 2)
+URL : http://farm6.staticflickr.com/5499/9866572884_933dc885fc_z.jpg
+PRED: a man holding a tennis racket on a tennis court <END>
+GT  : <START> a girl hitting a soccer ball with her head <END>
 
-[train #2]
-URL : http://farm4.staticflickr.com/3191/3062697181_1985275ba6_z.jpg
-PRED: a <UNK> <UNK> is <UNK> a <UNK> <UNK> on a <UNK> <END>
-GT  : <START> there are many boats that can be seen in the water <END>
+[train #2] (try 3)
+URL : http://farm5.staticflickr.com/4066/4284554694_1abac5bd7b_z.jpg
+PRED: a couple of boats are parked next to a <UNK> <END>
+GT  : <START> a number of people riding motorcycles near a train track <END>
 
-[val #0]
-URL : http://farm1.staticflickr.com/181/437013680_0d193f4a99_z.jpg
-PRED: a man is <UNK> a <UNK> on a tennis court <END>
-GT  : <START> there are pedestrians walking on the road in the city <END>
+[val #0] (try 1)
+URL : http://farm4.staticflickr.com/3103/2699403221_3605d26612_z.jpg
+PRED: a sandwich with <UNK> and <UNK> on the street <END>
+GT  : <START> <UNK> looking meal of vegetables cheese and meat on bread <END>
 
-[val #1]
-URL : http://farm5.staticflickr.com/4045/4464789987_58a3a14584_z.jpg
-PRED: a man is <UNK> a <UNK> on a tennis court <END>
-GT  : <START> a group of people standing at a table with bottles of wine <END>
+[val #1] (try 2)
+URL : http://farm7.staticflickr.com/6086/6136723106_35cbe63a1c_z.jpg
+PRED: a clock tower <UNK> on the street <END>
+GT  : <START> a boat is docked on the water near an <UNK> <END>
 
-[val #2]
-URL : http://farm2.staticflickr.com/1070/1300336842_4a56197177_z.jpg
-PRED: a <UNK> <UNK> with a <UNK> <UNK> and <UNK> <END>
-GT  : <START> a toilet with a <UNK> on top of it <END>
+[val #2] (try 3)
+URL : http://farm8.staticflickr.com/7134/7665599226_c87129120c_z.jpg
+PRED: the man is standing next to a <UNK> <UNK> to a tennis ball <END>
+GT  : <START> there are two women making a <UNK> about <UNK> and doughnuts <END>
+
+[val #2] (try 4)
+URL : http://farm1.staticflickr.com/149/358969946_67390c6259_z.jpg
+PRED: a kitchen with a <UNK> <UNK> and a <UNK> <UNK> <END>
+GT  : <START> a stainless steel refrigerator is next to the kitchen cabinets <END>

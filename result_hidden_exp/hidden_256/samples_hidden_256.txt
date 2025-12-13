@@ -1,29 +1,29 @@
-[train #0]
-URL : http://farm8.staticflickr.com/7029/6844216529_befb539919_z.jpg
-PRED: a <UNK> <UNK> of a <UNK> <UNK> <UNK> <END>
-GT  : <START> a pizza sitting on paper with a <UNK> knife <END>
+[train #0] (try 1)
+URL : http://farm1.staticflickr.com/82/253842196_814e5b01f8_z.jpg
+PRED: it <UNK> <UNK> sitting on the runway in front of a house <END>
+GT  : <START> three skate <UNK> are preparing to ride in a skate board bowl <END>
 
-[train #1]
-URL : http://farm5.staticflickr.com/4054/4686494927_3cf952de1d_z.jpg
-PRED: a man holding a baseball bat in a <UNK> <END>
-GT  : <START> a <UNK> plays a game on the wii with her family <END>
+[train #1] (try 2)
+URL : http://farm3.staticflickr.com/2689/4390534989_918160b916_z.jpg
+PRED: a view of a <UNK> <UNK> a wooden table with <UNK> <UNK> <END>
+GT  : <START> a large glass bowl filled with dirt and plants <END>
 
-[train #2]
-URL : http://farm1.staticflickr.com/28/101701957_462339b003_z.jpg
-PRED: a man skiing down a snowy hill <END>
-GT  : <START> a woman is using a snowboard on a ski slope <END>
+[train #2] (try 3)
+URL : http://farm9.staticflickr.com/8056/8096962481_a14031cbe9_z.jpg
+PRED: a young girl and a woman are smiling <END>
+GT  : <START> a young girl and a woman are smiling <END>
 
-[val #0]
-URL : http://farm2.staticflickr.com/1369/1133774803_703c03478c_z.jpg
-PRED: a <UNK> of <UNK> <UNK> <UNK> on the beach <END>
-GT  : <START> a <UNK> of <UNK> kites are looking down on a <UNK> kite <END>
+[val #0] (try 1)
+URL : http://farm2.staticflickr.com/1070/1087946215_5e48d1bda1_z.jpg
+PRED: a bed with a metal rug and black <UNK> <END>
+GT  : <START> a cat is sitting on top of a monitor and a persons foot <END>
 
-[val #1]
-URL : http://farm9.staticflickr.com/8533/8693930270_f942dca647_z.jpg
-PRED: a laptop and a <UNK> on a city street <END>
-GT  : <START> a bus next to a rest stop area <UNK> a clock on the roof <END>
+[val #1] (try 2)
+URL : http://farm8.staticflickr.com/7057/6820649552_ae258b2112_z.jpg
+PRED: a large elephant and a <UNK> <UNK> <UNK> through a grassy area <END>
+GT  : <START> a large elephants walks along toward the camera <END>
 
-[val #2]
-URL : http://farm2.staticflickr.com/1422/1373201926_fdafe4bb5d_z.jpg
-PRED: a bathroom sink with <UNK> <UNK> <UNK> <END>
-GT  : <START> a room with a large white bed and a flat screen tv <END>
+[val #2] (try 3)
+URL : http://farm3.staticflickr.com/2765/4371102075_6eea4c2e31_z.jpg
+PRED: a man is in a snow with snow skis <END>
+GT  : <START> a woman cross country skiing on a sunny day <END>
